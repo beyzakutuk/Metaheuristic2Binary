@@ -1,2 +1,3 @@
-addpath('Algorithm');
-
+addpath('algorithms');
+addpath('binary-algorithms');
+addpath('utils');
